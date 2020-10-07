@@ -9,9 +9,9 @@
 (雖然是生科系但我不會寫病毒也不會製造病毒= =)<BR>
 若多次出現警告可至防毒軟體處設定忽略。<BR>
 
-[Windows版連結](https://drive.google.com/file/d/18vi19gHzyls1Cri4RyKIwr2q15Lj9GO3/view?usp=sharing) <BR>
+[Windows版下載](https://github.com/z987525877/PaperTranslater/raw/main/win_version/dist/PaperTranslater_WIN.exe) <BR>
 
-[Linux版連結](https://drive.google.com/file/d/1G12WzAqwHrgwlqGxKdXmTgrb8ooXR7xv/view?usp=sharing)<BR>
+[Linux版下載](https://github.com/z987525877/PaperTranslater/raw/main/linux_version/dist/PaperTranslater_WIN.exe)<BR>
 
   
 ### 使用教學
