@@ -11,7 +11,7 @@
 
 [Windows版下載](https://github.com/z987525877/PaperTranslater/raw/main/win_version/dist/PaperTranslater_WIN.exe) <BR>
 
-[Linux版下載](https://github.com/z987525877/PaperTranslater/raw/main/linux_version/dist/PaperTranslater_WIN.exe)<BR>
+[Linux版下載](https://github.com/z987525877/PaperTranslater/raw/main/linux_version/dist/PaperTranslater_LINUX)<BR>
 
   
 ### 使用教學
