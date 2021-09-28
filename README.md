@@ -16,7 +16,7 @@
 
 [Linux版下載](https://github.com/z987525877/PaperTranslator/raw/main/linux_version/dist/PaperTranslator_LINUX)<BR>
 
-  
+[__線上版本(推薦)__](https://colab.research.google.com/drive/1Tpcm4W9FRBnxUkuhE8HuicNBm1jFvyTo)<BR>
 ### 使用教學
 
 #### Windows版
