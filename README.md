@@ -1,4 +1,4 @@
-# 專討救星PaperTranslator 1.0上線拉
+# 專討救星PaperTranslator 2.0上線拉
 
 多益只考200分都看不懂但下禮拜要報Paper?<BR>
 大一剛進實驗室被老師強迫讀Paper?<BR>
