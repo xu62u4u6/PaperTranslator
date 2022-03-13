@@ -1,4 +1,4 @@
-# 專討救星PaperTranslator 2.0上線拉
+# 專討救星PaperTranslator 網頁版本上線拉
 
 多益只考200分都看不懂但下禮拜要報Paper?<BR>
 大一剛進實驗室被老師強迫讀Paper?<BR>
@@ -11,9 +11,9 @@
 (雖然是生科系但我不會寫病毒也不會製造病毒= =)<BR>
 若多次出現警告可至防毒軟體處設定忽略。<BR>
   
-[PaperTranslator_web](https://https://papertranslator.site/)<BR>
+[PaperTranslator_web](https://papertranslator.site)<BR>
 
-[PaperTranslator_colab](https://colab.research.google.com/drive/1AAds99NMOfJeYnUHqwTQOHnudgF2o0wI?usp=sharing)<BR>
+[colab版本](https://colab.research.google.com/drive/1AAds99NMOfJeYnUHqwTQOHnudgF2o0wI?usp=sharing)<BR>
    
 [Windows版下載](https://github.com/z987525877/PaperTranslator/raw/main/win_version/dist/PaperTranslator_WIN.exe) <BR>
 
