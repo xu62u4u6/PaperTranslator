@@ -10,8 +10,10 @@
 請點選您的版本並直接打開即可使用，防毒軟體有可能會警告有病毒，請直接忽略就可。<BR>
 (雖然是生科系但我不會寫病毒也不會製造病毒= =)<BR>
 若多次出現警告可至防毒軟體處設定忽略。<BR>
-   
-[__PaperTranslatorOnline (International)(推薦)__](https://colab.research.google.com/drive/1AAds99NMOfJeYnUHqwTQOHnudgF2o0wI?usp=sharing)<BR>
+  
+[PaperTranslator_web](https://https://papertranslator.site/)<BR>
+
+[PaperTranslator_colab](https://colab.research.google.com/drive/1AAds99NMOfJeYnUHqwTQOHnudgF2o0wI?usp=sharing)<BR>
    
 [Windows版下載](https://github.com/z987525877/PaperTranslator/raw/main/win_version/dist/PaperTranslator_WIN.exe) <BR>
 
